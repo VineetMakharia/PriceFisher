@@ -1,6 +1,6 @@
 cffi==1.11.5
 Scrapy==1.5.1
-scrapy-splash==0.7.2
+scrapy-splash==0.8.0
 scrapyrt==0.10
 Twisted==18.7.0
 Werkzeug==0.14.1
